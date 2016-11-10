@@ -1,0 +1,6 @@
+{
+  "name": "Ipp-engine-for-ovs",
+  "tagline": "A programmable packet processing engine based on BPF, implemented on ovs",
+  "body": "### The Instruction-based Packet Processing (IPP) engine\r\nIPP is a SDN data plane scheme inherits the BSD Packet Filter (BPF), a de-facto packet filtering architecture.\r\nSome instructions are added to the BPF's instruction set to process packets in SDN, and a new virtual machine architecture is proposed to execute them.\r\n\r\n### Implemented on Linux with Open vSwitch environment\r\nThis implementation is based on ovs 2.4.0 (2.4.90), and we adds and modifies the datapath codes in it.\r\nIt is tested on Ubuntu Desktop 14.04 environment.\r\nAs a test tool, mininet (with ovs plugin) is also used. \r\n\r\n### Contact\r\nThis work is for academic purpose, and we can not provide much support. \r\nIf you have any questions, contact to [this email address](mailto:wowook@gmail.com) and we’ll help you.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
