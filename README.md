@@ -43,4 +43,4 @@ The execution engine runs the functions to handle instructions and observe them 
 
 [1] J. Schulist et al, Linux Socket Filtering aka Berkeley Packet Filter (BPF), www.kernel.org/doc/Documentation/networking/ﬁlter.txt.
 
-[2] K. Kiwook et al, Instruction based Packet Processing Scheme for Programmable SDN Data Plane (not printed yet)
+[2] K. Kiwook et al, "Instruction based Packet Processing Scheme for Programmable SDN Data Plane." JOURNAL OF PLATFORM TECHNOLOGY 4.4 (2016): 71-77.
